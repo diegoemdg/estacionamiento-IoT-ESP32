@@ -660,13 +660,13 @@ Pegar el contenido del archivo `flow_estacionamiento.json`.
 
 ---
 
-## 21. Resultados
+## 16. Resultados
 
 El sistema logró monitorear en tiempo real el estado de un cajón de estacionamiento mediante MQTT. La ESP32 publicó la distancia medida por el sensor HC-SR04 y el estado del cajón. Node-RED recibió y visualizó los datos en un Dashboard. Además, los actuadores físicos respondieron correctamente al estado detectado.
 
 ---
 
-## 23. Autores
+## 17. Autores
 
 * De la Rosa Gamiño Diego Emilio
 * López Ramos Marcos Isaid
